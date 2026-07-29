@@ -32,3 +32,11 @@ node_modules/
 
 # Imagens locais grandes (já commitadas)
 # Mantém images/ no repo pra deploy funcionar
+
+.vercel
+
+# Temporarios
+*.tmp
+stdout.txt
+err.txt
+*.log
