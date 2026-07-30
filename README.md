@@ -2,8 +2,6 @@
 
 Site portfólio profissional do **Pedro Rodrigo**, Analista Fiscal e Consultor Tributário em Fortaleza/CE.
 
-🔗 **Site:** https://pedrorodrigo.com.br (após deploy final)
-
 ## Stack
 
 - HTML5 + CSS3 + JavaScript vanilla
